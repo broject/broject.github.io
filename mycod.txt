@@ -2,7 +2,7 @@
 
 int main(void) 
 {
-	char *s;
+	char s[50];
 	printf("hello world");
 	scanf("%s", &s);
 	return 0;
